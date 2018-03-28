@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Struggles with Go</title>
-    <link>https://tiruniyo.gitlab.io/tags/</link>
+    <link>https://sharmatiru.github.io/tags/</link>
     <description>Recent content in Tags on Struggles with Go</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 27 Mar 2018 22:41:25 +0530</lastBuildDate>
     
-	<atom:link href="https://tiruniyo.gitlab.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sharmatiru.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>https://tiruniyo.gitlab.io/tags/hello/</link>
+      <link>https://sharmatiru.github.io/tags/hello/</link>
       <pubDate>Tue, 27 Mar 2018 22:41:25 +0530</pubDate>
       
-      <guid>https://tiruniyo.gitlab.io/tags/hello/</guid>
+      <guid>https://sharmatiru.github.io/tags/hello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>World</title>
-      <link>https://tiruniyo.gitlab.io/tags/world/</link>
+      <link>https://sharmatiru.github.io/tags/world/</link>
       <pubDate>Tue, 27 Mar 2018 22:41:25 +0530</pubDate>
       
-      <guid>https://tiruniyo.gitlab.io/tags/world/</guid>
+      <guid>https://sharmatiru.github.io/tags/world/</guid>
       <description></description>
     </item>
     
